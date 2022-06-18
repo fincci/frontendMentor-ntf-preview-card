@@ -15,7 +15,7 @@ body {
 .nft-card {
     background-color: var(--card-bg);
     max-width: 350px;
-    height: 600px;
+    height: 595px;
     border-radius: 15px;
     padding: 24px;
 }
@@ -50,7 +50,7 @@ body {
 .nft-card .nft-name {
     color: white;
     font-size: 22px;
-    margin: 20px 0 16px;
+    margin: 25px 0 16px;
     font-weight: 600;
 }
 
@@ -102,7 +102,7 @@ body {
 .nft-card .wrapper-creator {
     display: flex;
     padding: 20px 0;
-    border-top: solid 1px var(--primary-soft);
+    border-top: solid 1px var(--line);
     align-items: center;
 }
 
